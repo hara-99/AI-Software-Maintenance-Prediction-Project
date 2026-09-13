@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# API keys / secrets
+.env
+
+# Trained machine learning models
+models/*.pkl
+models/*.joblib
+
+# Uploaded ZIP projects
+uploaded_projects/*
+
+# Generated analysis results
+analysis_results/*
+
+# Generated reports
+generated_reports/*
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
