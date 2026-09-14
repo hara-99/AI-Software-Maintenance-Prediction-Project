@@ -11,10 +11,6 @@ env/
 # API keys / secrets
 .env
 
-# Trained machine learning models
-models/*.pkl
-models/*.joblib
-
 # Uploaded ZIP projects
 uploaded_projects/*
 
